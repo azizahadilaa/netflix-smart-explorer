@@ -49,19 +49,3 @@ The goal of this project is to demonstrate:
 
 
 ---
-
-## 🇮🇩 Catatan (Bahasa Indonesia)
-
-Project **Netflix Smart Explorer** dikembangkan sebagai **final project mata kuliah** di tingkat universitas.
-
-Aplikasi ini bertujuan untuk menerapkan konsep **Exploratory Data Analysis (EDA)** serta membangun aplikasi interaktif berbasis web menggunakan **Streamlit**.  
-Pengguna dapat mengeksplorasi data Netflix melalui proses pemfilteran, pengurutan, dan visualisasi sederhana berbasis dataset CSV.
-
-Project ini menekankan pada pemahaman alur pengolahan data, logika pemrograman, serta penyajian hasil analisis secara interaktif.
-
-
-
-
-
-├── .gitignore
-└── README.md

@@ -47,5 +47,16 @@ The goal of this project is to demonstrate:
 ├── netflix.csv         # Dataset
 ├── requirements.txt    # Dependencies
 
-
 ---
+```
+
+## 🚀 Run Locally
+
+To run this app locally:
+
+```bash
+git clone https://github.com/azizahadilaa/netflix-smart-explorer.git
+cd netflix-smart-explorer
+pip install -r requirements.txt
+streamlit run app.py
+```
